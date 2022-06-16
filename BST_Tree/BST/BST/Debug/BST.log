@@ -1,0 +1,5 @@
+﻿  BST.cpp
+D:\Desktop\NSTU\Algorithms and Data Structures\laba2BST\BST\BST\menu.hpp(16,10): warning C4566: символ, представленный универсальным именем символа "\u2192", невозможно представить в текущей кодовой странице (1251)
+D:\Desktop\NSTU\Algorithms and Data Structures\laba2BST\BST\BST\BST.cpp(18,31): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
+D:\Desktop\NSTU\Algorithms and Data Structures\laba2BST\BST\BST\BST.cpp(23,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  BST.vcxproj -> D:\Desktop\NSTU\Algorithms and Data Structures\laba2BST\BST\Debug\BST.exe

@@ -1,0 +1,8 @@
+﻿  AVL.cpp
+  BST_Tree.cpp
+  laba_3.cpp
+D:\Desktop\NSTU\Algorithms and Data Structures\laba3\laba_3\laba_3\menu.hpp(17,10): warning C4566: символ, представленный универсальным именем символа "\u2192", невозможно представить в текущей кодовой странице (1251)
+D:\Desktop\NSTU\Algorithms and Data Structures\laba3\laba_3\laba_3\laba_3.cpp(14,31): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
+D:\Desktop\NSTU\Algorithms and Data Structures\laba3\laba_3\laba_3\laba_3.cpp(19,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  laba_3.vcxproj -> D:\Desktop\NSTU\Algorithms and Data Structures\laba3\laba_3\x64\Debug\laba_3.exe

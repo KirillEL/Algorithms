@@ -1,0 +1,32 @@
+﻿  laba4_hash_table.cpp
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\laba4_hash_table.cpp(31,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\laba4_hash_table.cpp(57,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\laba4_hash_table.cpp(172,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\HashOpen.h(208,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\HashOpen.h(204): message : во время компиляции функции-члена класс шаблон "bool HashOpen<int,int>::insert(Key,Data)"
+          with
+          [
+              Key=int,
+              Data=int
+          ]
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\HashOpen.h(140): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "HashOpen<int,int>"
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\HashOpen.h(226,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\HashOpen.h(221): message : во время компиляции функции-члена класс шаблон "bool HashOpen<int,int>::remove(Key)"
+          with
+          [
+              Key=int
+          ]
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\HashOpen.h(242,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\HashOpen.h(237): message : во время компиляции функции-члена класс шаблон "Data HashOpen<int,Data>::search(Key)"
+          with
+          [
+              Data=int,
+              Key=int
+          ]
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\HashOpen.h(150,1): warning C4305: инициализация: усечение из "double" в "float"
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\HashOpen.h(149): message : во время компиляции функции-члена класс шаблон "double HashOpen<int,int>::squadZond(int,int)"
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\HashOpen.h(208): message : выполняется компиляция ссылки на экземпляр шаблон функции "double HashOpen<int,int>::squadZond(int,int)"
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\HashOpen.h(157): message : во время компиляции функции-члена класс шаблон "HashOpen<int,int>::HashOpen(int)"
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\laba4_hash_table.cpp(64): message : выполняется компиляция ссылки на экземпляр шаблон функции "HashOpen<int,int>::HashOpen(int)"
+D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\laba4_hash_table\HashOpen.h(151,1): warning C4305: инициализация: усечение из "double" в "float"
+  laba4_hash_table.vcxproj -> D:\Desktop\NSTU\Algorithms and Data Structures\RGZ\laba4_hash_table\x64\Debug\laba4_hash_table.exe
